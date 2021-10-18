@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/UlaPP/UlaPPRepozytorium/issues"
   },
-  "homepage": "https://github.com/UlaPP/UlaPPRepozytorium#readme"
+  "homepage": "https://github.com/UlaPP/UlaPPRepozytorium#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5"
+  }
 }
